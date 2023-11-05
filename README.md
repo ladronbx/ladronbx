@@ -7,10 +7,7 @@
 
 
 ### Estoy formandome como Full Stack Developer en GeeksHubs Academy Valencia!
-
-<img src="/gift-github.gif" alt="side Image" align="right" width="460" height="auto" />
-<!-- gif Image -->
-<img src="/gift-github.gif" alt="side Image" align="right" width="460" height="auto" />
+<img src="gift-github.gif" alt="side Image" align="right" width="460" height="auto" />
 
 <p>  
 
