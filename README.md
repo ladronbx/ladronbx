@@ -1,5 +1,12 @@
 # Hey there 👋
 
+</br>
+<img src="gift-github.gif" alt="side Image" align="right" width="420" height="auto" />
+Soy Bienve, Junior Full Stack Developer.
+En 2022 dejé mi trabajo en una multinacional como administrativa y me lancé a estudiar programación. Desde entonces me he dedicado a especializarme en el desarrollo de software
+</br>
+</br>
+
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ladronbx)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ladronbravovlc@gmail.com)
 [![Github](https://img.shields.io/badge/-ladronbx-black?style=flat&labelColor=black&logo=github&logoColor=white)](https://gitstats.me/ladronbx)
@@ -25,28 +32,23 @@
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)]()
 </br>
 
-<img src="gift-github.gif" alt="side Image" align="right" width="300" height="auto" />
-Soy Bienve, Junior Full Stack Developer.
-En 2022 dejé mi trabajo en una multinacional como administrativa y me lancé a estudiar programación. Desde entonces me he dedicado a especializarme en el desarrollo de software
-</br>
-
 ## 👩🏽‍💻 Proyecto actual
 * Finalizar mi formación en GeeksHubs Academy hasta enero 2024
 </br>
 ## 💭 Proyectos a futuro
-Como Junior Full Stack Developer, mi enfoque principal es explorar el mundo del desarrollo de aplicaciones móviles para expandir mis habilidades. Mi meta es sumergirme en el universo tanto de iOS como de Android para poder crear aplicaciones innovadoras y funcionales.
+Mi enfoque principal es explorar el mundo del desarrollo de aplicaciones móviles para expandir mis habilidades. Mi meta es sumergirme en el universo tanto de iOS como de Android para poder crear aplicaciones innovadoras y funcionales.
 
 Mis próximos objetivos incluyen:
 
 ### 📱 Desarrollo de aplicaciones para iOS:
-* Dominar el entorno de desarrollo de Apple, incluyendo el uso de Swift y Xcode, para crear aplicaciones elegantes y eficientes para dispositivos iOS.
+* Dominar el entorno de desarrollo de Apple, incluyendo el uso de Swift y Xcode, para crear aplicaciones para dispositivos iOS.
 </br>
 [![Apple](https://img.shields.io/badge/iOS-999999?style=for-the-badge&logo=apple&logoColor=white&labelColor=101010)]()
 [![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white&labelColor=101010)]()
 [![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white&labelColor=101010)]()
 </br>
 ### 🤖 Exploración en el desarrollo de aplicaciones para Android:
-* Sumergirme en el ecosistema de Android, aprendiendo Kotlin y utilizando Android Studio para diseñar y construir aplicaciones atractivas y sólidas para dispositivos Android.
+* Sumergirme en el ecosistema de Android, aprendiendo Kotlin y utilizando Android Studio para diseñar y construir aplicaciones para dispositivos Android.
 </br>
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]()
 [![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)]()
