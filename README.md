@@ -35,7 +35,7 @@ En 2022 dejé mi trabajo en una multinacional como administrativa y me lancé a 
 </br>
 
 ## 👩🏽‍💻 Proyecto actual
-* Finalizar mi formación en GeeksHubs Academy hasta enero 2024
+* Finalizar mi formación en GeeksHubs Academy hasta diciembre 2023
 </br>
 
 ## 💭 Proyectos a futuro
