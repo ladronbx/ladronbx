@@ -20,10 +20,11 @@ En 2022 dejé mi trabajo en una multinacional como administrativa y me lancé a 
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=101010)]()
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
-</br>
-
 [![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=101010)]()
 [![TypeORM](https://img.shields.io/badge/TypeORM-376e9d?style=for-the-badge&labelColor=101010)]()
+</br>
+
+
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 [![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white&labelColor=101010)]()
@@ -36,6 +37,7 @@ En 2022 dejé mi trabajo en una multinacional como administrativa y me lancé a 
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=101010)]()
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=101010)]()
 [![FlexBox](https://img.shields.io/badge/FlexBox-DE4B25?style=for-the-badge&logo=flexbox&logoColor=white&labelColor=101010)]()
+</br>
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=101010)]()
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)]()
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)]()
@@ -50,13 +52,10 @@ En 2022 dejé mi trabajo en una multinacional como administrativa y me lancé a 
 
 
 ## 👩🏽‍💻 Proyecto actual
-* Finalizar mi formación en GeeksHubs Academy hasta diciembre 2023
+* Ahora que he finalizado mi formación en GeeksHubs Academy Valencia, donde he podido aprender a desarrollar tanto el frontend como el backend de una página web, mi enfoque principal es explorar el mundo del desarrollo de aplicaciones móviles para expandir mis habilidades. Trato de aprender a desarollar aplicaciones nativas para smartphones tanto de iOS como de Android.
 </br>
 
-## 💭 Proyectos a futuro
-Mi enfoque principal es explorar el mundo del desarrollo de aplicaciones móviles para expandir mis habilidades. Mi meta es sumergirme en el universo tanto de iOS como de Android para poder crear aplicaciones innovadoras y funcionales.
-
-Mis próximos objetivos incluyen:
+Mis objetivos actuales incluyen:
 
 ### 📱 Desarrollo de aplicaciones para iOS:
 * Dominar el entorno de desarrollo de Apple, incluyendo el uso de Swift y Xcode, para crear aplicaciones para dispositivos iOS.
@@ -75,6 +74,11 @@ Mis próximos objetivos incluyen:
 [![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)]()
 </br>
 </br>
+
+## 💭 Proyectos a futuro
+En cuanto aprenda a desarrollar aplicaciones nativas para IOS y Android me gustaría desarrollar mi propia app 📱
+
+
 
 #### 🏆 Estadísticas de Github:
 <p>
