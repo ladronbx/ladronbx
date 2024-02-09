@@ -13,7 +13,7 @@ En 2022 dejé mi trabajo en una multinacional como administrativa y me lancé a 
 [![Visitors](https://visitor-badge.laobi.icu/badge?page_id=ladronbx.ladronbx)](https://github.com/ladronbx)
 
 
-## Estoy formándome como Full Stack Developer en GeeksHubs Academy Valencia! 🌱
+## He finalizado mis estudios como Full Stack Developer en GeeksHubs Academy Valencia! 🌱
 
 ### Tecnologías:
 
@@ -52,32 +52,8 @@ En 2022 dejé mi trabajo en una multinacional como administrativa y me lancé a 
 
 
 ## 👩🏽‍💻 Proyecto actual
-* Ahora que he finalizado mi formación en GeeksHubs Academy Valencia, donde he podido aprender a desarrollar tanto el frontend como el backend de una página web, mi enfoque principal es explorar el mundo del desarrollo de aplicaciones móviles para expandir mis habilidades. Trato de aprender a desarollar aplicaciones nativas para smartphones tanto de iOS como de Android.
+* Ahora que he finalizado mi formación en GeeksHubs Academy Valencia. Trato de aprender JAVA ☕
 </br>
-
-Mis objetivos actuales incluyen:
-
-### 📱 Desarrollo de aplicaciones para iOS:
-* Dominar el entorno de desarrollo de Apple, incluyendo el uso de Swift y Xcode, para crear aplicaciones para dispositivos iOS.
-</br>
-
-[![Apple](https://img.shields.io/badge/iOS-999999?style=for-the-badge&logo=apple&logoColor=white&labelColor=101010)]()
-[![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white&labelColor=101010)]()
-[![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white&labelColor=101010)]()
-</br>
-### 🤖 Exploración en el desarrollo de aplicaciones para Android:
-* Sumergirme en el ecosistema de Android, aprendiendo Kotlin y utilizando Android Studio para diseñar y construir aplicaciones para dispositivos Android.
-</br>
-
-[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]()
-[![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)]()
-[![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)]()
-</br>
-</br>
-
-## 💭 Proyectos a futuro
-En cuanto aprenda a desarrollar aplicaciones nativas para IOS y Android me gustaría desarrollar mi propia app 📱
-
 
 
 #### 🏆 Estadísticas de Github:
