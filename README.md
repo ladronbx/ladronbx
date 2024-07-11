@@ -2,10 +2,10 @@
 
 </br>
 <img src="gift-github.gif" alt="side Image" align="right" width="420" height="auto" />
-Soy Bienve, Full Stack Developer.
-En 2022 dejé mi trabajo en una multinacional como administrativa y me lancé a estudiar programación. Desde entonces me he dedicado a especializarme en el desarrollo de software. 
-</br>Finalicé mis estudios en enero de 2024.
-Y desde entonces me encuentro en activo, trabajando como Full Stack Developer. 🌱 
+<p><strong>Soy Bienve, Full Stack Developer</strong></p>
+<p>En 2022 dejé mi trabajo en una multinacional como administrativa y me lancé a estudiar programación. Desde entonces, me he dedicado a especializarme en el desarrollo web.</p>
+<p>Finalicé mis estudios en 2024 y, en marzo de ese mismo año, comencé a trabajar en el sector hasta la actualidad.</p>
+<p>Me encanta aprender y seguir formándome, por lo que siempre estoy en constante evolución.</p> 🌱 
 </br>
 </br>
 
